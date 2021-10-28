@@ -15,7 +15,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Hello Kim Trang 
+          Hello Kim Trang dễ thương
         </a>
       </header>
     </div>
